@@ -1,0 +1,6 @@
+{
+  "name": "KaliSec AI Suite",
+  "description": "Advanced Android Security Assessment Suite with Hemant AI Agent, 600+ simulated Kali tools, SSH tunneling, stealth VPN, and cloud reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
